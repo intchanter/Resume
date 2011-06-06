@@ -29,7 +29,7 @@ Skills and Accomplishments
 Computer Languages and Tools
 ============================
 
-+================+-----------------------------------+
++----------------+-----------------------------------+
 | Scripting      | Python, Perl, PHP, TCL, bash,     |
 |                | ECMAScript/Javascript             |
 +================+-----------------------------------+
