@@ -29,6 +29,7 @@ Skills and Accomplishments
 Computer Languages and Tools
 ============================
 
+
 +----------------+-----------------------------------+
 | Scripting      | Python, Perl, PHP, TCL, bash,     |
 |                | ECMAScript/Javascript             |
@@ -45,85 +46,73 @@ Computer Languages and Tools
 
 Employment History
 ==================
-Bluehost
-  February 2009 through present
 
-  Troubleshoot code and configuration issues
 
-  Train coworkers in troubleshooting techniques
++-------------------------+---------------------------------------------------+
+| Bluehost                | Troubleshoot code and configuration issues        |
+|   Feb 2009 through      +---------------------------------------------------+
+|   present               | Train coworkers in troubleshooting techniques     |
+|                         +---------------------------------------------------+
+|                         | Collect and report support trends                 |
+|                         +---------------------------------------------------+
+|                         | Answer customer technical questions               |
+|                         +---------------------------------------------------+
+|                         | Troubleshoot and correct server software issues   |
+|                         +---------------------------------------------------+
+|                         | Troubleshoot and report server hardware issues    |
++-------------------------+---------------------------------------------------+
+| Enchanted Solutions     | Develop and test software modules to customer     |
+|   Jan 2006 through      | specifications                                    |
+|   Jul 2009              +---------------------------------------------------+
+|                         | Train clients in applications and security        |
+|                         | practices                                         |
+|                         +---------------------------------------------------+
+|                         | Troubleshoot and repair hardware and software     |
+|                         | issues                                            |
++-------------------------+---------------------------------------------------+
+| S & H Restaurants       | Maintain, improve, and support internal website   |
+|   May 2006 through      | and tools                                         |
+|   Dec 2008              +---------------------------------------------------+
+|                         | Maintain computers and communications equipment   |
+|                         | for 35 locations                                  |
++-------------------------+---------------------------------------------------+
+| FlatPlanet, LLC         | Develop and troubleshoot web sites using PHP,     |
+|   Sep 2005 through      | MySQL, Javascript, and Flash                      |
+|   Dec 2005              +---------------------------------------------------+
+|                         | Install and configure servers to develop and      |
+|                         | serve client web sites                            |
++-------------------------+---------------------------------------------------+
+| Temporary employment    |                                                   |
+|   May 2005 through      |                                                   |
+|   Sep 2005              |                                                   |
++-------------------------+---------------------------------------------------+
+| L\. "Tiny" Grover       | Maintain computer systems used for medical        |
+| (individual)            | research                                          |
+|   Sep 2004 through      +---------------------------------------------------+
+|   May 2005              | Develop process for tracking references and       |
+|                         | conclusions                                       |
++-------------------------+---------------------------------------------------+
+| Manpower Professional   | Develop automated firmware tests for              |
+|   Nov 2000 through      | Hewlett-Packard's LaserJet printers               |
+|   Aug 2004              +---------------------------------------------------+
+|                         |  Analyze and report results to Hewlett-Packard    |
++-------------------------+---------------------------------------------------+
+| Quality Logic, Inc.     |  Execute LaserJet software tests                  |
+|   May 2000 through      +---------------------------------------------------+
+|   Oct 2000              |  Report test results to Hewlett-Packard           |
++-------------------------+---------------------------------------------------+
 
-  Collect and report support trends
-
-  Answer customer technical questions
-
-  Troubleshoot and correct server software issues
-
-  Troubleshoot and report server hardware issues
-
-Enchanted Solutions
-  January 2006 through July 2009
-
-  Develop and test software modules to customer specifications
-
-  Train clients in applications and security practices
-
-  Troubleshoot and repair hardware and software issues
-
-S & H Restaurants
-  May 2006 through Dec 2008
-
-  Maintain, improve, and support internal website and tools
-
-  Maintain computers and communications equipment for 35 locations
-
-FlatPlanet, LLC
-  September 2005 through December 2005
-
-  Develop and troubleshoot web sites using PHP, MySQL, Javascript, and Flash
-
-  Install and configure redundant servers to serve customer web sites
-
-Temporary employment
-  May 2005 through September 2005
-
-L\. "Tiny" Grover (individual)
-  September 2004 through May 2005
-
-  Maintain computer systems used for medical research
-
-  Develop process for tracking references and conclusions
-
-Manpower Professional
-  November 2000 through August 2004
-
-  Develop automated firmware tests for Hewlett-Packard's LaserJet printers
-
-  Analyze and report results to Hewlett-Packard
-
-Quality Logic Inc.
-  May 2000 through October 2000
-
-  Execute LaserJet software tests
-
-  Report test results to Hewlett-Packard
 
 Education
 =========
-Continuing self-directed study
-  Programming
 
-  System administration
 
-  Economics
-
-  Government
-
-  Psychology
-
-  Artificial intelligence
-
-May-December 1994
-  Majored in Computer Engineering at Boise State University
-
-1994
-  Graduated high school
++-------------------------+---------------------------------------------------+
+| Self-directed study     | Programming, System administration, Economics,    |
+|                         | Government, Psychology, Artificial intelligence   |
++-------------------------+---------------------------------------------------+
+| Boise State University  | Majored in Computer Enginering (no degree)        |
++-------------------------+---------------------------------------------------+
+| High school             | Graduated from a home education program with an   |
+|                         | emphasis on computers, science, and mathematics   |
++-------------------------+---------------------------------------------------+
