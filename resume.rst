@@ -39,7 +39,7 @@ Scripting
 
   bash
 
-  ECMAScript
+  ECMAScript (Javascript)
 
 Compiled
   C
