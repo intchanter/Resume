@@ -39,7 +39,7 @@ Computer Languages and Tools
 | Markup/API     | HTML, CSS, XML, JSON, YAML,       |
 |                | reStructuredText                  |
 +----------------+-----------------------------------+
-| Web Frameworks | Django, Drupal, WordPress, Joomla |
+| Web Frameworks | Django, Drupal                    |
 +----------------+-----------------------------------+
 | Other          | Vim, Git                          |
 +----------------+-----------------------------------+
