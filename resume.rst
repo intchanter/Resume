@@ -86,10 +86,10 @@ Employment History
 |   May 2005 through      |                                                   |
 |   Sep 2005              |                                                   |
 +-------------------------+---------------------------------------------------+
-| L\. "Tiny" Grover,      | Maintain computer systems used for medical        |
-| individual              | research                                          |
-|   Sep 2004 through      +---------------------------------------------------+
-|   May 2005              | Develop process for tracking references and       |
+| L\. Grover, individual  | Maintain computer systems used for medical        |
+|   Sep 2004 through      | research                                          |
+|   May 2005              +---------------------------------------------------+
+|                         | Develop process for tracking references and       |
 |                         | conclusions                                       |
 +-------------------------+---------------------------------------------------+
 | Manpower Professional   | Develop automated firmware tests for              |
