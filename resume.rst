@@ -3,7 +3,7 @@ Daniel L. Fackrell
 Computer Programmer, System Administrator
 
 Address
-  1728 Willowbrook Drive, Provo, UT 84604
+  1153 W 1425 S, Springville, UT 84663
 
 Telephone
   +1.801.687.5261
@@ -87,7 +87,11 @@ Bluehost
 
   Collect and report support trends
 
-  Answer technical and sales questions
+  Answer customer technical questions
+
+  Troubleshoot and correct server software issues
+
+  Troubleshoot and report server hardware issues
 
 Enchanted Solutions
   January 2006 through July 2009
