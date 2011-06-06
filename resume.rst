@@ -28,53 +28,19 @@ Skills and Accomplishments
 
 Computer Languages and Tools
 ============================
-Scripting
-  Python
-
-  Perl
-
-  PHP
-
-  TCL
-
-  bash
-
-  ECMAScript (Javascript)
-
-Compiled
-  C
-
-  C++
-
-  Pascal
-
-  80x86 assembly
-
-Markup/API
-  HTML
-
-  reStructuredText
-
-  CSS
-
-  XML
-
-  JSON
-
-  YAML
-
-Web Frameworks
-  Django
-
-  Drupal
-
-  WordPress
-
-  Joomla
-Other
-  Vim
-
-  Git
++================+-----------------------------------+
+| Scripting      | Python, Perl, PHP, TCL, bash,     |
+|                | ECMAScript/Javascript             |
++================+-----------------------------------+
+| Compiled       | C, C++, Pascal, 80x86 assembly    |
++================+-----------------------------------+
+| Markup/API     | HTML, CSS, XML, JSON, YAML,       |
+|                | reStructuredText                  |
++================+-----------------------------------+
+| Web Frameworks | Django, Drupal, WordPress, Joomla |
++================+-----------------------------------+
+| Other          | Vim, Git                          |
++================+-----------------------------------+
 
 Employment History
 ==================
