@@ -86,8 +86,8 @@ Employment History
 |   May 2005 through      |                                                   |
 |   Sep 2005              |                                                   |
 +-------------------------+---------------------------------------------------+
-| L\. "Tiny" Grover       | Maintain computer systems used for medical        |
-| (individual)            | research                                          |
+| L\. "Tiny" Grover,      | Maintain computer systems used for medical        |
+| individual              | research                                          |
 |   Sep 2004 through      +---------------------------------------------------+
 |   May 2005              | Develop process for tracking references and       |
 |                         | conclusions                                       |
