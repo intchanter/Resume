@@ -11,12 +11,6 @@ Telephone
 Email
   unlearned at gmail dot com
 
-Career Objectives
-=================
-- Make a positive difference in the world
-- Continually grow in theory and practice
-- Collaborate with highly motivated and intelligent individuals
-
 Skills and Accomplishments
 ==========================
 - Write computer programs in a variety of languages
