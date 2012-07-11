@@ -13,14 +13,14 @@ Email
 
 Career Objectives
 =================
-- Contribute in meaningful ways
+- Make a positive difference in the world
 - Continually grow in theory and practice
 - Collaborate with highly motivated and intelligent individuals
 
 Skills and Accomplishments
 ==========================
+- Write computer programs in a variety of languages
 - Build and maintain sites with Django and Python
-- Develop custom modules and themes for Drupal and PHP
 - Design, develop, and maintain databases using MySQL and SQLite
 - Install, manage, and repair UNIX and Linux servers and workstations
 - Provide instruction in PHP, Perl, Python, and various applications
@@ -53,7 +53,7 @@ Employment History
 |   Feb 2009 through      +---------------------------------------------------+
 |   present               | Train coworkers in troubleshooting techniques     |
 |                         +---------------------------------------------------+
-|                         | Collect and report support trends                 |
+|                         | Find and implement solutions to recurring issues  |
 |                         +---------------------------------------------------+
 |                         | Answer customer technical questions               |
 |                         +---------------------------------------------------+
@@ -109,9 +109,10 @@ Education
 
 +-------------------------+---------------------------------------------------+
 | Self-directed study     | Programming, System administration, Economics,    |
-|                         | Government, Psychology, Artificial intelligence   |
+|                         | Government, Psychology, Artificial intelligence,  |
+|                         | Cryptography, Computer security                   |
 +-------------------------+---------------------------------------------------+
-| Boise State University  | Majored in Computer Enginering (no degree)        |
+| Boise State University  | Computer Engineering program (no degree)          |
 +-------------------------+---------------------------------------------------+
 | High school             | Graduated from a home education program with an   |
 |                         | emphasis on computers, science, and mathematics   |
